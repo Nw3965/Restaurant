@@ -4,7 +4,7 @@
 <head>
 <body>
 <form action="main.php" method="post">
-  Chose 
+  choose
 <h2>Starters</h2><br>
   <input type="radio" name="st" value="Croquettes"><img src="cro.jpg" width="50" height="50" />Croquettes
   <input type="radio" name="st" value="CALAMAR"><img src="cara.jpg" width="50" height="50"  /> CALAMARI 
