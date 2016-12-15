@@ -1,1 +1,2 @@
-# Restaurant ReservationSystem
+# R
+Restaurant Reservation　System
